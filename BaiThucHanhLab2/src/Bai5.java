@@ -7,7 +7,8 @@ public class Bai5 {
         while (tong <= 100) {
             System.out.print("Nhap mot so nguyen: ");
             int n = sc.nextInt();
-            tong += n;}
+            tong += n;
+        }
         System.out.println("Tong cua cac so da nhap la: " + tong);
     }
 }
