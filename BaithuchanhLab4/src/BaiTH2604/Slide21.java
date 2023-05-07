@@ -1,4 +1,4 @@
-package BaithuchanhLab4.src;
+package BaiTH2604;
 
 import java.util.ArrayList;
 
@@ -17,4 +17,4 @@ public class Slide21 {
          System.out.println(colors.contains("Orange"));
          System.out.println(colors.size()); System.out.println(colors);
       }
-    }
+}
