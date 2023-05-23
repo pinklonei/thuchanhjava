@@ -11,7 +11,7 @@ public class Slide88 {
             hashMapCity.put("QN", "Quang Nam"); 
             hashMapCity.put("QN", "Quang Ninh"); 
             hashMapCity.put("HCM", "Thanh pho Ho Chi Minh");
-            System.out.println("Danh sách các thành phố trong hashMapCity: "); 
+            System.out.println("Danh sach cac thanh pho trong hashMapCity: "); 
    
             Set<Map.Entry<String, String>> setCity = hashMapCity.entrySet(); System.out.println(setCity);
 
